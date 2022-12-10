@@ -1,0 +1,45 @@
+c:\users\52877\documents\visual studio 2015\Projects\Simulacion\Simulacion\bin\Debug\Simulacion.exe.config
+C:\Users\52877\Documents\Visual Studio 2015\Projects\Simulacion\Simulacion\bin\Debug\Simulacion.exe
+C:\Users\52877\Documents\Visual Studio 2015\Projects\Simulacion\Simulacion\bin\Debug\Simulacion.pdb
+C:\Users\52877\Documents\Visual Studio 2015\Projects\Simulacion\Simulacion\bin\Debug\Simulacion.xml
+C:\Users\52877\Documents\Visual Studio 2015\Projects\Simulacion\Simulacion\obj\Debug\Simulacion.vbprojResolveAssemblyReference.cache
+C:\Users\52877\Documents\Visual Studio 2015\Projects\Simulacion\Simulacion\obj\Debug\Simulacion.Lucky_seven.resources
+C:\Users\52877\Documents\Visual Studio 2015\Projects\Simulacion\Simulacion\obj\Debug\Simulacion.Resources.resources
+C:\Users\52877\Documents\Visual Studio 2015\Projects\Simulacion\Simulacion\obj\Debug\Simulacion.vbproj.GenerateResource.Cache
+C:\Users\52877\Documents\Visual Studio 2015\Projects\Simulacion\Simulacion\obj\Debug\Simulacion.exe
+C:\Users\52877\Documents\Visual Studio 2015\Projects\Simulacion\Simulacion\obj\Debug\Simulacion.xml
+C:\Users\52877\Documents\Visual Studio 2015\Projects\Simulacion\Simulacion\obj\Debug\Simulacion.pdb
+C:\Users\52877\documents\visual studio 2015\Projects\Simulacion\Simulacion\obj\Debug\Simulacion.AboutBox1.resources
+C:\Users\52877\documents\visual studio 2015\Projects\Simulacion\Simulacion\obj\Debug\Simulacion.Form2.resources
+C:\Users\52877\documents\visual studio 2015\Projects\Simulacion\Simulacion\obj\Debug\Simulacion.Form3.resources
+C:\Users\52877\documents\visual studio 2015\Projects\Simulacion\Simulacion\obj\Debug\Simulacion.Form4.resources
+D:\Simulacion\Simulacion\bin\Debug\Simulacion.exe.config
+D:\Simulacion\Simulacion\obj\Debug\Simulacion.exe
+D:\Simulacion\Simulacion\obj\Debug\Simulacion.xml
+D:\Simulacion\Simulacion\obj\Debug\Simulacion.pdb
+D:\Simulacion\Simulacion\bin\Debug\Simulacion.exe
+D:\Simulacion\Simulacion\bin\Debug\Simulacion.pdb
+D:\Simulacion\Simulacion\bin\Debug\Simulacion.xml
+D:\Simulacion\Simulacion\obj\Debug\Simulacion.vbprojResolveAssemblyReference.cache
+D:\Simulacion\Simulacion\obj\Debug\Simulacion.AboutBox1.resources
+D:\Simulacion\Simulacion\obj\Debug\Simulacion.Form2.resources
+D:\Simulacion\Simulacion\obj\Debug\Simulacion.Form3.resources
+D:\Simulacion\Simulacion\obj\Debug\Simulacion.Form4.resources
+D:\Simulacion\Simulacion\obj\Debug\Simulacion.Lucky_seven.resources
+D:\Simulacion\Simulacion\obj\Debug\Simulacion.Resources.resources
+D:\Simulacion\Simulacion\obj\Debug\Simulacion.vbproj.GenerateResource.Cache
+D:\LuckySeven\Simulacion\bin\Debug\Simulacion.exe.config
+D:\LuckySeven\Simulacion\obj\Debug\Simulacion.exe
+D:\LuckySeven\Simulacion\obj\Debug\Simulacion.xml
+D:\LuckySeven\Simulacion\obj\Debug\Simulacion.pdb
+D:\LuckySeven\Simulacion\bin\Debug\Simulacion.exe
+D:\LuckySeven\Simulacion\bin\Debug\Simulacion.pdb
+D:\LuckySeven\Simulacion\bin\Debug\Simulacion.xml
+D:\LuckySeven\Simulacion\obj\Debug\Simulacion.vbprojResolveAssemblyReference.cache
+D:\LuckySeven\Simulacion\obj\Debug\Simulacion.AboutBox1.resources
+D:\LuckySeven\Simulacion\obj\Debug\Simulacion.Form2.resources
+D:\LuckySeven\Simulacion\obj\Debug\Simulacion.Form3.resources
+D:\LuckySeven\Simulacion\obj\Debug\Simulacion.Form4.resources
+D:\LuckySeven\Simulacion\obj\Debug\Simulacion.Lucky_seven.resources
+D:\LuckySeven\Simulacion\obj\Debug\Simulacion.Resources.resources
+D:\LuckySeven\Simulacion\obj\Debug\Simulacion.vbproj.GenerateResource.Cache
